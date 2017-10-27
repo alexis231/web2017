@@ -1,0 +1,35 @@
+h1{
+  font-family: 'Modak', cursive;
+  text-align: center;
+}
+
+table{
+  margin: auto;
+}
+
+#A{
+  width: 100px;
+  height: 200px;
+  background-color: #F7F7F7;
+  border-left: 2px;
+}
+#L{
+  width: 100px;
+  height: 200px;
+  background-color: #3CBCAC
+}
+#E{
+  width: 100px;
+  height: 200px;
+  background-color: #6290C3
+}
+#X{
+  width: 100px;
+  height: 200px;
+  background-color: #A0A4B8
+}
+#I{
+  width: 100px;
+  height: 200px;
+  background-color: #7293A0
+}
